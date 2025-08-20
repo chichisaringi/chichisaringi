@@ -17,9 +17,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Chichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![Chichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=chichisaringi&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chichisaringi&layout=compact&theme=radical)  
 
 ---
 
