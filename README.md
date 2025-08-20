@@ -29,7 +29,8 @@
 ---
 
 ### 🌈🐍 Watch my contributions come to life
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Rainbow Snake](https://github.com/chichi-ombati/chichi-ombati/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
