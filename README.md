@@ -28,11 +28,6 @@
 
 ---
 
-### 🌈🐍 Watch my contributions come to life
-![Rainbow Snake](https://github.com/chichi-ombati/chichi-ombati/blob/output/github-contribution-grid-snake.svg)
-
-
----
 
 ✨ *"To live for the hope of it all."*  
 
